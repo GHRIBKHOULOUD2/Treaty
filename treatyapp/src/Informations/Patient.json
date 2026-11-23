@@ -1,0 +1,410 @@
+[
+  {
+    "id": "01",
+    "registration_number": "2022726628920",
+    "full_name": "ABDENEABI LAMIA",
+    "gender": "FEMALE",
+    "email": "L.ABDENNEBI@ESI-SBA.DZ",
+    "professional_status": "STUDENT 1SC",
+    "account_status": "ACTIVE",
+    "personal_information": {
+      "first_name": "ABDENEABI",
+      "last_name": "LAMIA",
+      "date_of_birth": "17-10-2004",
+      "place_of_birth": "MEDEA",
+      "phone_number": "05 55 38 56 98",
+      "address": "10 MOHAMEDI BERROUAGHIA - MEDEA"
+    }
+  },
+  {
+    "id": "02",
+    "registration_number": "202237576103",
+    "full_name": "GHRIB KHOULOUD",
+    "gender": "FEMALE",
+    "email": "K.GHRIB@ESI-SBA.DZ",
+    "professional_status": "STUDENT 1SC",
+    "account_status": "ACTIVE",
+    "personal_information": {
+      "first_name": "GhRIB",
+      "last_name": "KHOULOUD",
+      "date_of_birth": "09-01-2005",
+      "place_of_birth": "RELIZANE",
+      "phone_number": "05 55 87 97 12",
+      "address": "DJDIOUIA - RELIZANE"
+    }
+  },
+  {
+    "id": "03",
+    "registration_number": "2022726628921",
+    "full_name": "ADJNEG NOUR EL HOUDA",
+    "gender": "FEMALE",
+    "email": "NH.ADJENEG@ESI-SBA.DZ",
+    "professional_status": "STUDENT 1SC",
+    "account_status": "ACTIVE",
+    "personal_information": {
+      "first_name": "NOUR EL HOUDA",
+      "last_name": "ADJNEG",
+      "date_of_birth": "12-06-2003",
+      "place_of_birth": "ALGIERS",
+      "phone_number": "06 44 27 45 26",
+      "address": "5 RUE BEN M'HIDI - ALGIERS"
+    }
+  },
+  {
+    "id": "04",
+    "registration_number": "2022726628922",
+    "full_name": "MADHOUI DADNAA FATIMA ZOHRA",
+    "gender": "FEMALE",
+    "email": "DF.MADHOUI@ESI-SBA.DZ",
+    "professional_status": "STUDENT 1SC",
+    "account_status": "ACTIVE",
+    "personal_information": {
+      "first_name": "FATIMA ZOHRA",
+      "last_name": "MADHOUI DADNAA",
+      "date_of_birth": "23-08-2002",
+      "place_of_birth": "ORAN",
+      "phone_number": "07 22 xx xx xx",
+      "address": "12 AVENUE ABANE RAMDANE - ORAN"
+    }
+  },
+  {
+    "id": "05",
+    "registration_number": "2022726628923",
+    "full_name": "REFSI SIRINE",
+    "gender": "FEMALE",
+    "email": "AS.REFSI@ESI-SBA.DZ",
+    "professional_status": "STUDENT 1SC",
+    "account_status": "ACTIVE",
+    "personal_information": {
+      "first_name": "SIRINE",
+      "last_name": "REFSI",
+      "date_of_birth": "04-02-2004",
+      "place_of_birth": "CONSTANTINE",
+      "phone_number": "05 33 xx xx xx",
+      "address": "18 CITE EL MENZAH - CONSTANTINE"
+    }
+  },
+  {
+    "id": "06",
+    "registration_number": "2022726628923",
+    "full_name": "HALLALBI NAFISSA",
+    "gender": "FEMALE",
+    "email": "N.HALLABI@ESI-SBA.DZ",
+    "professional_status": "STUDENT 1SC",
+    "account_status": "ACTIVE",
+    "personal_information": {
+      "first_name": "SIRINE",
+      "last_name": "REFSI",
+      "date_of_birth": "04-02-2004",
+      "place_of_birth": "CONSTANTINE",
+      "phone_number": "05 33 xx xx xx",
+      "address": "18 CITE EL MENZAH - CONSTANTINE"
+    }
+  },
+  {
+    "id": "07",
+    "registration_number": "2022726628923",
+    "full_name": "REFSI SIRINE",
+    "gender": "FEMALE",
+    "email": "AS.REFSI@ESI-SBA.DZ",
+    "professional_status": "STUDENT 1SC",
+    "account_status": "ACTIVE",
+    "personal_information": {
+      "first_name": "SIRINE",
+      "last_name": "REFSI",
+      "date_of_birth": "04-02-2004",
+      "place_of_birth": "CONSTANTINE",
+      "phone_number": "05 33 xx xx xx",
+      "address": "18 CITE EL MENZAH - CONSTANTINE"
+    }
+  },
+  {
+    "id": "08",
+    "registration_number": "2022726628923",
+    "full_name": "REFSI SIRINE",
+    "gender": "FEMALE",
+    "email": "AS.REFSI@ESI-SBA.DZ",
+    "professional_status": "STUDENT 1SC",
+    "account_status": "ACTIVE",
+    "personal_information": {
+      "first_name": "SIRINE",
+      "last_name": "REFSI",
+      "date_of_birth": "04-02-2004",
+      "place_of_birth": "CONSTANTINE",
+      "phone_number": "05 33 xx xx xx",
+      "address": "18 CITE EL MENZAH - CONSTANTINE"
+    }
+  },
+  {
+    "id": "09",
+    "registration_number": "2022726628923",
+    "full_name": "REFSI SIRINE",
+    "gender": "FEMALE",
+    "email": "AS.REFSI@ESI-SBA.DZ",
+    "professional_status": "STUDENT 1SC",
+    "account_status": "ACTIVE",
+    "personal_information": {
+      "first_name": "SIRINE",
+      "last_name": "REFSI",
+      "date_of_birth": "04-02-2004",
+      "place_of_birth": "CONSTANTINE",
+      "phone_number": "05 33 xx xx xx",
+      "address": "18 CITE EL MENZAH - CONSTANTINE"
+    }
+  },
+  {
+    "id": "10",
+    "registration_number": "2022726628923",
+    "full_name": "REFSI SIRINE",
+    "gender": "FEMALE",
+    "email": "AS.REFSI@ESI-SBA.DZ",
+    "professional_status": "STUDENT 1SC",
+    "account_status": "ACTIVE",
+    "personal_information": {
+      "first_name": "SIRINE",
+      "last_name": "REFSI",
+      "date_of_birth": "04-02-2004",
+      "place_of_birth": "CONSTANTINE",
+      "phone_number": "05 33 xx xx xx",
+      "address": "18 CITE EL MENZAH - CONSTANTINE"
+    }
+  },
+  {
+    "id": "11",
+    "registration_number": "2022726628923",
+    "full_name": "REFSI SIRINE",
+    "gender": "FEMALE",
+    "email": "AS.REFSI@ESI-SBA.DZ",
+    "professional_status": "STUDENT 1SC",
+    "account_status": "ACTIVE",
+    "personal_information": {
+      "first_name": "SIRINE",
+      "last_name": "REFSI",
+      "date_of_birth": "04-02-2004",
+      "place_of_birth": "CONSTANTINE",
+      "phone_number": "05 33 xx xx xx",
+      "address": "18 CITE EL MENZAH - CONSTANTINE"
+    }
+  },
+  {
+    "id": "12",
+    "registration_number": "2022726628923",
+    "full_name": "REFSI SIRINE",
+    "gender": "FEMALE",
+    "email": "AS.REFSI@ESI-SBA.DZ",
+    "professional_status": "STUDENT 1SC",
+    "account_status": "ACTIVE",
+    "personal_information": {
+      "first_name": "SIRINE",
+      "last_name": "REFSI",
+      "date_of_birth": "04-02-2004",
+      "place_of_birth": "CONSTANTINE",
+      "phone_number": "05 33 xx xx xx",
+      "address": "18 CITE EL MENZAH - CONSTANTINE"
+    }
+  },
+  {
+    "id": "13",
+    "registration_number": "2022726628923",
+    "full_name": "REFSI SIRINE",
+    "gender": "FEMALE",
+    "email": "AS.REFSI@ESI-SBA.DZ",
+    "professional_status": "STUDENT 1SC",
+    "account_status": "ACTIVE",
+    "personal_information": {
+      "first_name": "SIRINE",
+      "last_name": "REFSI",
+      "date_of_birth": "04-02-2004",
+      "place_of_birth": "CONSTANTINE",
+      "phone_number": "05 33 xx xx xx",
+      "address": "18 CITE EL MENZAH - CONSTANTINE"
+    }
+  },
+  {
+    "id": "14",
+    "registration_number": "2022726628923",
+    "full_name": "REFSI SIRINE",
+    "gender": "FEMALE",
+    "email": "AS.REFSI@ESI-SBA.DZ",
+    "professional_status": "STUDENT 1SC",
+    "account_status": "ACTIVE",
+    "personal_information": {
+      "first_name": "SIRINE",
+      "last_name": "REFSI",
+      "date_of_birth": "04-02-2004",
+      "place_of_birth": "CONSTANTINE",
+      "phone_number": "05 33 xx xx xx",
+      "address": "18 CITE EL MENZAH - CONSTANTINE"
+    }
+  },
+  {
+    "id": "15",
+    "registration_number": "2022726628923",
+    "full_name": "REFSI SIRINE",
+    "gender": "FEMALE",
+    "email": "AS.REFSI@ESI-SBA.DZ",
+    "professional_status": "STUDENT 1SC",
+    "account_status": "ACTIVE",
+    "personal_information": {
+      "first_name": "SIRINE",
+      "last_name": "REFSI",
+      "date_of_birth": "04-02-2004",
+      "place_of_birth": "CONSTANTINE",
+      "phone_number": "05 33 xx xx xx",
+      "address": "18 CITE EL MENZAH - CONSTANTINE"
+    }
+  },
+  {
+    "id": "16",
+    "registration_number": "2022726628923",
+    "full_name": "REFSI SIRINE",
+    "gender": "FEMALE",
+    "email": "AS.REFSI@ESI-SBA.DZ",
+    "professional_status": "STUDENT 1SC",
+    "account_status": "ACTIVE",
+    "personal_information": {
+      "first_name": "SIRINE",
+      "last_name": "REFSI",
+      "date_of_birth": "04-02-2004",
+      "place_of_birth": "CONSTANTINE",
+      "phone_number": "05 33 xx xx xx",
+      "address": "18 CITE EL MENZAH - CONSTANTINE"
+    }
+  },
+  {
+    "id": "017",
+    "registration_number": "2022726628923",
+    "full_name": "REFSI SIRINE",
+    "gender": "FEMALE",
+    "email": "AS.REFSI@ESI-SBA.DZ",
+    "professional_status": "STUDENT 1SC",
+    "account_status": "ACTIVE",
+    "personal_information": {
+      "first_name": "SIRINE",
+      "last_name": "REFSI",
+      "date_of_birth": "04-02-2004",
+      "place_of_birth": "CONSTANTINE",
+      "phone_number": "05 33 xx xx xx",
+      "address": "18 CITE EL MENZAH - CONSTANTINE"
+    }
+  },
+  {
+    "id": "18",
+    "registration_number": "2022726628923",
+    "full_name": "REFSI SIRINE",
+    "gender": "FEMALE",
+    "email": "AS.REFSI@ESI-SBA.DZ",
+    "professional_status": "STUDENT 1SC",
+    "account_status": "ACTIVE",
+    "personal_information": {
+      "first_name": "SIRINE",
+      "last_name": "REFSI",
+      "date_of_birth": "04-02-2004",
+      "place_of_birth": "CONSTANTINE",
+      "phone_number": "05 33 xx xx xx",
+      "address": "18 CITE EL MENZAH - CONSTANTINE"
+    }
+  },
+  {
+    "id": "19",
+    "registration_number": "2022726628923",
+    "full_name": "REFSI SIRINE",
+    "gender": "FEMALE",
+    "email": "AS.REFSI@ESI-SBA.DZ",
+    "professional_status": "STUDENT 1SC",
+    "account_status": "ACTIVE",
+    "personal_information": {
+      "first_name": "SIRINE",
+      "last_name": "REFSI",
+      "date_of_birth": "04-02-2004",
+      "place_of_birth": "CONSTANTINE",
+      "phone_number": "05 33 xx xx xx",
+      "address": "18 CITE EL MENZAH - CONSTANTINE"
+    }
+  },
+  {
+    "id": "20",
+    "registration_number": "2022726628923",
+    "full_name": "REFSI SIRINE",
+    "gender": "FEMALE",
+    "email": "AS.REFSI@ESI-SBA.DZ",
+    "professional_status": "STUDENT 1SC",
+    "account_status": "ACTIVE",
+    "personal_information": {
+      "first_name": "SIRINE",
+      "last_name": "REFSI",
+      "date_of_birth": "04-02-2004",
+      "place_of_birth": "CONSTANTINE",
+      "phone_number": "05 33 xx xx xx",
+      "address": "18 CITE EL MENZAH - CONSTANTINE"
+    }
+  },
+  {
+    "id": "21",
+    "registration_number": "2022726628923",
+    "full_name": "REFSI SIRINE",
+    "gender": "FEMALE",
+    "email": "AS.REFSI@ESI-SBA.DZ",
+    "professional_status": "STUDENT 1SC",
+    "account_status": "ACTIVE",
+    "personal_information": {
+      "first_name": "SIRINE",
+      "last_name": "REFSI",
+      "date_of_birth": "04-02-2004",
+      "place_of_birth": "CONSTANTINE",
+      "phone_number": "05 33 xx xx xx",
+      "address": "18 CITE EL MENZAH - CONSTANTINE"
+    }
+  },
+  {
+    "id": "22",
+    "registration_number": "2022726628923",
+    "full_name": "REFSI SIRINE",
+    "gender": "FEMALE",
+    "email": "AS.REFSI@ESI-SBA.DZ",
+    "professional_status": "STUDENT 1SC",
+    "account_status": "ACTIVE",
+    "personal_information": {
+      "first_name": "SIRINE",
+      "last_name": "REFSI",
+      "date_of_birth": "04-02-2004",
+      "place_of_birth": "CONSTANTINE",
+      "phone_number": "05 33 xx xx xx",
+      "address": "18 CITE EL MENZAH - CONSTANTINE"
+    }
+  },
+  {
+    "id": "23",
+    "registration_number": "2022726628923",
+    "full_name": "REFSI SIRINE",
+    "gender": "FEMALE",
+    "email": "AS.REFSI@ESI-SBA.DZ",
+    "professional_status": "STUDENT 1SC",
+    "account_status": "ACTIVE",
+    "personal_information": {
+      "first_name": "SIRINE",
+      "last_name": "REFSI",
+      "date_of_birth": "04-02-2004",
+      "place_of_birth": "CONSTANTINE",
+      "phone_number": "05 33 xx xx xx",
+      "address": "18 CITE EL MENZAH - CONSTANTINE"
+    }
+  },
+  {
+    "id": "24",
+    "registration_number": "2022726628923",
+    "full_name": "REFSI SIRINE",
+    "gender": "FEMALE",
+    "email": "AS.REFSI@ESI-SBA.DZ",
+    "professional_status": "STUDENT 1SC",
+    "account_status": "ACTIVE",
+    "personal_information": {
+      "first_name": "SIRINE",
+      "last_name": "REFSI",
+      "date_of_birth": "04-02-2004",
+      "place_of_birth": "CONSTANTINE",
+      "phone_number": "05 33 xx xx xx",
+      "address": "18 CITE EL MENZAH - CONSTANTINE"
+    }
+  }
+]
